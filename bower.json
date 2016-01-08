@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate-component",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jaronbarends/boilerplate-component",
+  "authors": [
+    "jaronbarends <jaron@jaron.nl>"
+  ],
+  "description": "just a simple component to test how this works",
+  "main": "scss/boilerplate-component.scss",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
