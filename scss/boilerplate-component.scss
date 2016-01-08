@@ -1,6 +1,10 @@
 //define default variables; you can override these by adding them to _variables.scss
-$boilerplate-background: yellow !default;
+$boilerplate-background: purple !default;
 
 .boilerplate-component {
 	background: $boilerplate-background;
+}
+
+body {
+	background: $boilerplate-background !important;
 }
